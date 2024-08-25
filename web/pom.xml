@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.dmdev</groupId>
         <artifactId>first-maven</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <groupId>com.dmdev</groupId>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>com.dmdev</groupId>
             <artifactId>service</artifactId>
-            <version>1.1-SNAPSHOT</version>
+            <version>yes</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
